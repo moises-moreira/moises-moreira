@@ -1,5 +1,5 @@
 <p> -Sou <strong>Moisés Moreira</strong> 👋</p>
-<p> -👀 Estou estudando Progrmação para Web e para Games</p>
+<p> -👀 Estou estudando Programação para Games</p>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=benccalcyxzfi&theme=dark">
 <div>
