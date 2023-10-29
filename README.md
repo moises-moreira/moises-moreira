@@ -9,7 +9,6 @@
   <img align="center" alt="benccalcyxzfi-MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img align="center" alt="benccalcyxzfi-unity" src="https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=unity&logoColor=white"/>
   <img align="center" alt="benccalcyxzfi-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="benccalcyxzfi-react"  src="https://img.shields.io/badge/-react.js-%235DCEED?style=for-the-badge&logo=react&logoColor=white">
   
 </div>
 <hr>
