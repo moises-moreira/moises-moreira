@@ -7,6 +7,7 @@
   <img align="center" alt="benccalcyxzfi-js"  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="benccalcyxzfi-node.js" src="https://img.shields.io/badge/node.js-239120?style=for-the-badge&logo=node.js&logoColor=white"/>
   <img align="center" alt="benccalcyxzfi-MySQL" src="https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img align="center" alt="benccalcyxzfi-PHP" src="https://img.shields.io/badge/php-2009f1?style=for-the-badge&logo=php&logoColor=white"/>
   <img align="center" alt="benccalcyxzfi-unity" src="https://img.shields.io/badge/unity-gray?style=for-the-badge&logo=unity&logoColor=white"/>
   <img align="center" alt="benccalcyxzfi-csharp"  src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
   
